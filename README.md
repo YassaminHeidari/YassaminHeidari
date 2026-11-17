@@ -42,4 +42,4 @@ Most of my professional code lives in private company repos. These are the thing
 
 ## Get in touch
 
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) or [email](mailto:YOUR-EMAIL). I'm always happy to talk about backend performance, search, or AI tooling.
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/yassamin-heidari) or [email](mailto:yassaminhei@gmail.com). I'm always happy to talk about backend performance, search, or AI tooling.
