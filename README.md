@@ -5,7 +5,7 @@ Senior software engineer. I build backend systems that need to be fast and relia
 Right now I'm at **TeamViewer**, working on AR and smart glasses software for hands-free industrial work. Before that I spent two years at **Dawn Foods** on a B2B e-commerce platform used by commercial bakeries across the US. Earlier, at **Deloitte**, I helped modernize legacy government systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassamin-heidari)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yassaminhei@gmial.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yassaminhei@gmail.com)
 ![Open to work](https://img.shields.io/badge/Open%20to-remote%20%26%20hybrid%20roles-2EA44F?style=flat)
 
 ## What I've shipped
